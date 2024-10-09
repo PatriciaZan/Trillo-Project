@@ -6,6 +6,18 @@ Here I learned the fundamentals of Flexbox and continue practicing:
  - Media queries;
  - Variables.
 
+To start this project you must run in the terminal:
+```
+npm install
+```
 
-[Check the Project](https://patriciazan.github.io/Trillo-Project)
+And to modify and acesses the page you must:
+```
+npm run start
+```
+
+Check the Project [HERE](https://patriciazan.github.io/Trillo-Project)
+
+_The Complete section_
+ ![Print 1](./print/Trillo-1.png)
    
